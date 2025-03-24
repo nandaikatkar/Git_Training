@@ -1,8 +1,10 @@
+Adding one more message..
+
 Helloo..Welcome to first file..
 
-<<<<<<< HEAD
+
 Adding another message to this file to get another commit..
-=======
+
 
 Editing to this file to get another commit.
->>>>>>> d86a4351884041e0cdcbc217d8893a2ccac20dc9
+
